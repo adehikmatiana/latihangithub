@@ -1,2 +1,4 @@
 ini adalah contoh kalimat 
 harapannya bisa mahir dalam menggunakan github
+Tambahan untuk melakukan edit file
+karna saya mau tetap mahir git
